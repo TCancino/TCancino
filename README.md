@@ -1,11 +1,10 @@
 ### Hi there, I'm Thomas Cancino 👋
 
 
-## I'm a part-time junior programmer at Migrante and student !!
+## - 💻 I am a student at Diego Portales University. !!
 
 
 - 🗒 I’m currently learning ruby on rails.
-- 💻 I am a student at Diego Portales University.
 - 😎 Fun fact: I like movies, climbing and coffee.
 
 
